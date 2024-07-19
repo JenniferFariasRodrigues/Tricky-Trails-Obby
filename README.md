@@ -28,9 +28,7 @@ On the IDE Eclipse choose the option "Import projects". On the folder "General" 
 Click on  "main_application" folder and choose "Main.java" class.
 Click on "Run" in the Window.
 
-# Run unit tests on Eclipse IDE
-On a project folder(Tricky Trails obby) Click on "Run" and " Run as". 
-Select the option "JUnit Test".
+
 
 ```
 
