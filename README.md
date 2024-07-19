@@ -19,10 +19,10 @@ The idea is to create a simple game for a Roblox interface.
 ### Starting
 ```bash
 # Clone this project
-$ git clone https://github.com/JenniferFariasRodrigues/Tricky-Trails-obby.git
+$ git clone https://github.com/JenniferFariasRodrigues/tricky-trails-obby.git
 
 # Access on Eclipse IDE
-On the IDE Eclipse choose the option "Import projects". On the folder "General" choose "Existing Projects into workspace" and choose  Tricky Trails obby folder.
+On the IDE Eclipse choose the option "Import projects". On the folder "General" choose "Existing Projects into workspace" and choose  tricky-trails-obby folder.
 
 # Choose folder in IDE and run the project
 Click on  "main_application" folder and choose "Main.java" class.
