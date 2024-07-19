@@ -1,1 +1,64 @@
-# Tricky-Trails-Obby
+<p align="center">
+ <img src="https://qph.cf2.quoracdn.net/main-qimg-62be9fb6e1d7166e9cbeeed91309675https://embarcados.com.br/wp-content/uploads/2015/06/imagem-de-destaque-17.png" height="250" width="250">  
+ <img src="https://t.ctcdn.com.br/SlpfhAXXAd-NGnufpTrKozPoabg=/1200x675/smart/i609512.jpeg" height="250" width="250 </p>
+ <h1 align="center">Tricky Trails obby</h1>
+<p align="center">
+</p>
+Roblox Obby game.
+
+
+### Description 
+---
+The idea is to create a simple game for a Roblox interface.
+
+
+
+---
+
+### Starting
+```bash
+# Clone this project
+$ git clone https://github.com/JenniferFariasRodrigues/Tricky-Trails-obby.git
+
+# Access on Eclipse IDE
+On the IDE Eclipse choose the option "Import projects". On the folder "General" choose "Existing Projects into workspace" and choose  Tricky Trails obby folder.
+
+# Choose folder in IDE and run the project
+Click on  "main_application" folder and choose "Main.java" class.
+Click on "Run" in the Window.
+
+# Run unit tests on Eclipse IDE
+On a project folder(Tricky Trails obby) Click on "Run" and " Run as". 
+Select the option "JUnit Test".
+
+```
+
+---
+### Output
+The expected  project output is:
+```bash
+========================
+
+
+-------------------------------
+
+-------------------------------
+
+========================
+
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+-------------------------------
+
+```
+
+
