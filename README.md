@@ -35,6 +35,6 @@ Click on "Run" in the Window.
 ---
 ### Output
 The expected  project output is:
- <img src="obby_pic.jpg" height="250" width="350"> 
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/obby_pic.jpeg" height="250" width="350"> 
 
 
