@@ -46,7 +46,7 @@ The expected project frontend output is:
 </p>
 
 The game is distribuited on six phases as:
- ```markdown
+ 
 <p>
 -White phase
 </p>
@@ -70,7 +70,11 @@ The player needs to pull up between the blocks.
 ```bash
 The player needs to pull up between the blocks.
 ```
-```
+ ```markdown
+  1. Primeiro item
+     - Sub-item 1
+     - Sub-item 2
+  2. Segundo item
 
 
 
