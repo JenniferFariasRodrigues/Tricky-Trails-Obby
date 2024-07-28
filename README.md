@@ -60,14 +60,14 @@ The player needs to pull up between the blocks.
 ```
 
 <p>
- 2.Blue phase
+ 2. Blue phase
 </p>
 
 <p align="center">
- <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/white_phase.jpeg" height="250" width="750"> 
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/blue_phase.jpeg" height="250" width="750"> 
 </p>
 
 ```bash
-The player needs to pull up between the blocks.
+The player needs to pull up between the blocks and not touch the red block. After three touches on red cylinder, the player died.
 ```
  
