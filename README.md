@@ -12,8 +12,6 @@ Roblox Obby game.
 ---
 The idea is to create a simple game for a Roblox interface.
 
-
-
 ---
 
 ### Starting
@@ -47,9 +45,10 @@ The expected project frontend output is:
  <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/obby_pic_oficial.jpeg" height="250" width="550"> 
 </p>
 ---
--The game is distribuited on six phases as:
+The game is distribuited on six phases as:
 ---
 -White phase
+---
 <p align="center">
  <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/white_phase.jpeg" height="250" width="550"> 
 </p>
