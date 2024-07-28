@@ -73,6 +73,7 @@ The player needs to pull up between the blocks.
  ```markdown
   1. The game is distribuited in phases as:
      - White:
+- ![Imagem de Sub-item 1](images/white_phase.jpeg)
 <p align="center">
  <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/white_phase.jpeg" height="250" width="750"> 
 </p>
