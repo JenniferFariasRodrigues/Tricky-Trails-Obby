@@ -52,11 +52,11 @@ The game is distribuited on six phases as:
 </p>
 
 <p align="center">
- <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/white_phase.jpeg" height="250" width="750"> 
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/white_phase.jpeg" height="250" width="800"> 
 </p>
 
 ```bash
-The player needs to pull up between the blocks.
+The player needs to jump between the white blocks.
 ```
 
 <p>
@@ -64,10 +64,22 @@ The player needs to pull up between the blocks.
 </p>
 
 <p align="center">
- <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/blue_phase.jpeg" height="250" width="750"> 
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/blue_phase.jpeg" height="250" width="800"> 
 </p>
 
 ```bash
-The player needs to pull up between the blocks and not touch the red block. After three touches on red cylinder, the player died.
+The player needs to jump up between the blocks and not touch the red block. After three touches on red cylinder, the player died.
+```
+
+<p>
+ 2. Green phase
+</p>
+
+<p align="center">
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/green_phase.jpeg" height="250" width="800"> 
+</p>
+
+```bash
+The player needs to jump up between the blocks and not touch the red block. The player died after touch any red block.
 ```
  
