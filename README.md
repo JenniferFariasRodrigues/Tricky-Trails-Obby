@@ -76,7 +76,7 @@ The player needs to jump up between the blocks and not touch the red block. Afte
 </p>
 
 <p align="center">
- <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/green_phase.jpeg" height="650" width="300"> 
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/green_phase.jpeg" style="transform: rotate(90deg); width: 200px; height: auto;"> 
 </p>
 
 ```bash
