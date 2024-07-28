@@ -46,11 +46,13 @@ The expected project frontend output is:
 </p>
 ---
 The game is distribuited on six phases as:
----
--White phase
----
+
 <p align="center">
- <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/white_phase.jpeg" height="250" width="550"> 
+-White phase
+</p>
+
+<p align="center">
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/white_phase.jpeg" height="250" width="750"> 
 </p>
 
 ```bash
