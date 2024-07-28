@@ -44,10 +44,10 @@ The expected project frontend output is:
 <p align="center">
  <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/obby_pic_oficial.jpeg" height="250" width="550"> 
 </p>
----
-The game is distribuited on six phases as:
 
-<p align="center">
+The game is distribuited on six phases as:
+ ```markdown
+<p>
 -White phase
 </p>
 
@@ -57,9 +57,20 @@ The game is distribuited on six phases as:
 
 ```bash
 The player needs to pull up between the blocks.
-
 ```
 
+<p>
+-Blue phase
+</p>
+
+<p align="center">
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/white_phase.jpeg" height="250" width="750"> 
+</p>
+
+```bash
+The player needs to pull up between the blocks.
+```
+```
 
 
 
