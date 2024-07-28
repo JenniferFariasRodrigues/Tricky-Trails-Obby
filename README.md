@@ -48,7 +48,7 @@ The expected project frontend output is:
 The game is distribuited on six phases as:
  
 <p>
--White phase
+1. White phase
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ The player needs to pull up between the blocks.
 ```
 
 <p>
--Blue phase
+ 2.Blue phase
 </p>
 
 <p align="center">
@@ -70,19 +70,4 @@ The player needs to pull up between the blocks.
 ```bash
 The player needs to pull up between the blocks.
 ```
- ```markdown
-  1. The game is distribuited in phases as:
-     - White:
-
-
- <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/white_phase.jpeg" height="250" width="750"> 
-
-
-```bash
-The player needs to pull up between the blocks.
-```
-     - Sub-item 2
-  2. Segundo item
-
-
-
+ 
