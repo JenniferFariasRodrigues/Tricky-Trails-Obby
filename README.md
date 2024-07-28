@@ -36,6 +36,6 @@ Click on "Run" in the Window.
 ### Output
 The expected  project output is:
 <p align="center">
- <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/obby_pic.jpeg" height="250" width="550"> 
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/obby_pic.jpeg" height="250" width="550"> 
 </p>
 Link Roblox:https://www.roblox.com/games/18657191052/Tricky-trails-obby#
