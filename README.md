@@ -34,10 +34,34 @@ Click on "Run" in the Window.
 
 ---
 ### Output
+
+
+```bash
+
+
+
+```
 Link Roblox:https://www.roblox.com/games/18657191052/Tricky-trails-obby#
-The expected  project output is:
+The expected project frontend output is:
 <p align="center">
  <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/obby_pic_oficial.jpeg" height="250" width="550"> 
 </p>
+---
 
+-The game is distribuited on six phases as:
+-White phase
+<p align="center">
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/white_phase.jpeg" height="250" width="550"> 
+</p>
+
+```bash
+The player needs to pull up between the blocks.
+
+```
+
+-wrong result:
+
+```bash
+
+```
 
