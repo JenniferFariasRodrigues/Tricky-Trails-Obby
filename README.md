@@ -39,9 +39,9 @@ Click on "Run" in the Window.
 ```bash
 
 
-
-```
 Link Roblox:https://www.roblox.com/games/18657191052/Tricky-trails-obby#
+```
+
 ---
 The expected project frontend output is:
 <p align="center">
@@ -61,9 +61,7 @@ The player needs to pull up between the blocks.
 
 ```
 
--wrong result:
 
-```bash
 
 ```
 
