@@ -33,11 +33,11 @@ Click on "Run" in the Window.
 ---
 ### Output
 
-
-```
 Link Roblox:
 ```
 https://www.roblox.com/games/18657191052/Tricky-trails-obby#
+```
+
 
 
 The expected project frontend output is:
@@ -71,8 +71,15 @@ The player needs to pull up between the blocks.
 The player needs to pull up between the blocks.
 ```
  ```markdown
-  1. Primeiro item
-     - Sub-item 1
+  1. The game is distribuited in phases as:
+     - White:
+<p align="center">
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/white_phase.jpeg" height="250" width="750"> 
+</p>
+
+```bash
+The player needs to pull up between the blocks.
+```
      - Sub-item 2
   2. Segundo item
 
