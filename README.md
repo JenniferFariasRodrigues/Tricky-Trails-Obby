@@ -23,10 +23,8 @@ $ git clone https://github.com/JenniferFariasRodrigues/tricky-trails-obby.git
 On the IDE Eclipse choose the option "Import projects". On the folder "General" choose "Existing Projects into workspace" and choose  tricky-trails-obby folder.
 
 # Choose folder in IDE and run the project
-Click on  "main_application" folder and choose "Main.java" class.
+Choose "tricky-trails-obby" class.
 Click on "Run" in the Window.
-
-
 
 ```
 
