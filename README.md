@@ -42,7 +42,7 @@ https://www.roblox.com/games/18657191052/Tricky-trails-obby#
 
 The expected project frontend output is:
 <p align="center">
- <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/obby_pic_oficial.jpeg" height="200" width="550"> 
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/obby_pic_oficial.jpeg" height="250" width="550"> 
 </p>
 
 The game is distribuited on six phases as:
@@ -52,7 +52,7 @@ The game is distribuited on six phases as:
 </p>
 
 <p align="center">
- <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/white_phase.jpeg" height="250" width="800"> 
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/white_phase.jpeg" height="150" width="800"> 
 </p>
 
 ```bash
@@ -64,7 +64,7 @@ The player needs to jump between the white blocks.
 </p>
 
 <p align="center">
- <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/blue_phase.jpeg" height="200" width="800"> 
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/blue_phase.jpeg" height="150" width="800"> 
 </p>
 
 ```bash
@@ -76,7 +76,7 @@ The player needs to jump up between the blocks and not touch the red block. Afte
 </p>
 
 <p align="center">
- <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/green_phase.jpeg" style="transform: rotate(90deg); width: 200px; height: auto;"> 
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/green_phase.jpeg" height="150" width="800"> 
 </p>
 
 ```bash
