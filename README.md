@@ -100,7 +100,7 @@ The player needs to jump up between the blocks and not touch the red block. The 
 </p>
 
 <p align="center">
- <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/orange_phase.jpeg" height="190" width="800"> 
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/orange_phase_oficial.jpeg" height="190" width="800"> 
 </p>
 
 ```bash
@@ -111,7 +111,7 @@ The blocks are rotating. The player needs to jump over the rotating blocks to pa
 </p>
 
 <p align="center">
- <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/red_phase.jpeg" height="190" width="800"> 
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/red_phase_oficial.jpeg" height="190" width="800"> 
 </p>
 
 ```bash
