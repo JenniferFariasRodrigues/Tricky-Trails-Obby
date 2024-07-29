@@ -84,11 +84,11 @@ The player needs to jump up between the blocks and not touch the red block. The 
 ```
 
 <p>
- 4. Green phase
+ 4. Yellow phase
 </p>
 
 <p align="center">
- <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/green_phase_oficial.jpeg" height="190" width="800"> 
+ <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/yellow_phase_oficial.jpeg" height="190" width="800"> 
 </p>
 
 ```bash
