@@ -38,7 +38,7 @@ https://www.roblox.com/games/18657191052/Tricky-trails-obby#
 
 
 
-#### The expected project frontend output is:
+## The expected project frontend output is:
 <p align="center">
  <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/obby_pic_oficial.jpeg" height="250" width="550"> 
 </p>
@@ -46,7 +46,7 @@ https://www.roblox.com/games/18657191052/Tricky-trails-obby#
 The game is distributed on six phases as:
  
 <p>
-#### 1. White phase
+## 1. White phase
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ The player needs to jump between the white blocks.
 
 
 <p>
- 2. Blue phase
+## 2. Blue phase
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ The player needs to jump up between the blocks and not touch the red block. Afte
 
 
 <p>
- 3. Green phase
+## 3. Green phase
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ The player needs to jump up between the blocks and not touch the red block. The 
 
 
 <p>
- 4. Yellow phase
+## 4. Yellow phase
 </p>
 
 <p align="center">
@@ -93,7 +93,7 @@ The player needs to jump up between the blocks and not touch the red block. The 
 
 
 <p>
- 5. Orange phase
+## 5. Orange phase
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@ The player needs to jump up between the blocks and not touch the red block. The 
 The blocks are rotating. The player needs to jump over the rotating blocks to pass the level.
 
  <p>
- 6. Red phase
+## 6. Red phase
 </p>
 
 <p align="center">
