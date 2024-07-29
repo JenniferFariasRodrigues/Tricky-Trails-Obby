@@ -78,9 +78,9 @@ The player needs to jump up between the blocks and not touch the red block. Afte
  <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/green_phase_oficial.jpeg" height="190" width="800"> 
 </p>
 
-```bash
+
 The player needs to jump up between the blocks and not touch the red block. The player died after touch any red block.
-```
+
 
 <p>
  4. Yellow phase
@@ -90,9 +90,9 @@ The player needs to jump up between the blocks and not touch the red block. The 
  <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/yellow_phase_oficial.jpeg" height="190" width="800"> 
 </p>
 
-```bash
+
 The player needs to jump up between the blocks and not touch the red block. The player died after touch any red block.
-```
+
 
 <p>
  5. Orange phase
@@ -102,9 +102,9 @@ The player needs to jump up between the blocks and not touch the red block. The 
  <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/orange_phase_oficial.jpeg" height="190" width="800"> 
 </p>
 
-```bash
+
 The blocks are rotating. The player needs to jump over the rotating blocks to pass the level.
-```
+
  <p>
  6. Red phase
 </p>
@@ -113,6 +113,6 @@ The blocks are rotating. The player needs to jump over the rotating blocks to pa
  <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/red_phase_oficial.jpeg" height="190" width="800"> 
 </p>
 
-```bash
+
 The blocks are rotating. A red stripe is on each block. The player needs to jump over the rotating blocks and not touch the rotating cylinders to pass the level. If the player touches a cylinder, the player will die.
-```
+
