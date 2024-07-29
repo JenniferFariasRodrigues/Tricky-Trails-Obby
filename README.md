@@ -55,9 +55,8 @@ The game is distribuited on six phases as:
  <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/white_phase.jpeg" height="190" width="800"> 
 </p>
 
-```bash
 The player needs to jump between the white blocks.
-```
+
 
 <p>
  2. Blue phase
@@ -67,9 +66,9 @@ The player needs to jump between the white blocks.
  <img src="https://github.com/JenniferFariasRodrigues/tricky-trails-obby/blob/feature/gameplay-engine/images/blue_phase.jpeg" height="190" width="800"> 
 </p>
 
-```bash
+
 The player needs to jump up between the blocks and not touch the red block. After three touches on red cylinder, the player died.
-```
+
 
 <p>
  3. Green phase
